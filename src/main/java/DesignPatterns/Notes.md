@@ -7,30 +7,30 @@ Design patterns are not finished designs that can be transformed directly into c
     - These patterns deal with object creation mechanisms, trying to create objects in a manner suitable to the situation.
     - Examples:
       ### Singleton:
-    - Ensures a class has only one instance and provides a global point of access to it.
+      - Ensures a class has only one instance and provides a global point of access to it.
       ### Factory Method:
-    - Creates objects without specifying the exact class to create.
+      - Creates objects without specifying the exact class to create.
       ### Abstract Factory:
-    - Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+      - Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
       ### Builder:
-    - Separates the construction of a complex object from its representation.
+      - Separates the construction of a complex object from its representation.
       ### Prototype:
-    - Creates a new object by copying an existing object.
+      - Creates a new object by copying an existing object.
 
     ## Structural Patterns:
      - These patterns deal with object composition, forming larger structures from objects.
      - Examples:
   
-        ### Adapter:  
-    - Allows incompatible interfaces to work together.
+       ### Adapter:  
+     - Allows incompatible interfaces to work together.
       ### Decorator:  
-    - Adds behavior to objects dynamically.
+      - Adds behavior to objects dynamically.
       ### Facade:  
-    - Provides a simplified interface to a complex subsystem.
+      - Provides a simplified interface to a complex subsystem.
       ### Composite:  
-    - Treats individual objects and compositions of objects uniformly.
+      - Treats individual objects and compositions of objects uniformly.
       ### Proxy:  
-    - Provides a surrogate or placeholder for another object.
+      - Provides a surrogate or placeholder for another object.
       ### Bridge**:
       ### Filter**:
       ### Flyweight**:
