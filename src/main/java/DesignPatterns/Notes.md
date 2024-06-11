@@ -21,16 +21,18 @@ Design patterns are not finished designs that can be transformed directly into c
      - These patterns deal with object composition, forming larger structures from objects.
      - Examples:
   
+
        ### Adapter:  
-     - Allows incompatible interfaces to work together.
+
+    - Allows incompatible interfaces to work together.
       ### Decorator:  
-      - Adds behavior to objects dynamically.
+    - Adds behavior to objects dynamically.
       ### Facade:  
-      - Provides a simplified interface to a complex subsystem.
+    - Provides a simplified interface to a complex subsystem.
       ### Composite:  
-      - Treats individual objects and compositions of objects uniformly.
+    - Treats individual objects and compositions of objects uniformly.
       ### Proxy:  
-      - Provides a surrogate or placeholder for another object.
+    - Provides a surrogate or placeholder for another object.
       ### Bridge**:
       ### Filter**:
       ### Flyweight**:
