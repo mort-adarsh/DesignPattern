@@ -2,7 +2,7 @@
 A design pattern in software engineering is a general, reusable solution to a commonly occurring problem within a given context in software design. 
 Design patterns are not finished designs that can be transformed directly into code; they are templates that describe how to solve a problem in various situations.
 
-- Here are the main categories of design patterns:
+- Here are the main categories of design patterns having over 23 design pattern:
   ## Creational Patterns:
     - These patterns deal with object creation mechanisms, trying to create objects in a manner suitable to the situation.
     - Examples:
@@ -33,9 +33,9 @@ Design patterns are not finished designs that can be transformed directly into c
     - Treats individual objects and compositions of objects uniformly.
       ### Proxy:  
     - Provides a surrogate or placeholder for another object.
-      ### Bridge**:
-      ### Filter**:
-      ### Flyweight**:
+      ### Bridge:
+      ### Flyweight:
+      ### Filter ( Not in 23):
 
     ## Behavioral Patterns :
     - These patterns are concerned with algorithms and the assignment of responsibilities between objects.
