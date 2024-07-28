@@ -1,7 +1,8 @@
 package DesignPatterns.BehavioralDesignPattern.ObserverDesignPattern;
 
 
-import java.util.logging.Logger;
+import DesignPatterns.BehavioralDesignPattern.ObserverDesignPattern.Observers.MonitorDisplay;
+import DesignPatterns.BehavioralDesignPattern.ObserverDesignPattern.Observers.TvDisplay;
 
 public class WeatherStation {
     //private static final Logger logger = Logger.getLogger(WeatherStation.class.getName());

@@ -1,6 +1,7 @@
 package DesignPatterns.BehavioralDesignPattern.ObserverDesignPattern;
 
 
+import DesignPatterns.BehavioralDesignPattern.ObserverDesignPattern.Observers.Observer;
 
 import java.util.ArrayList;
 import java.util.List;

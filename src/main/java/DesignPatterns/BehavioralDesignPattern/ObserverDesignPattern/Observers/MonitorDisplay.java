@@ -1,19 +1,17 @@
-package DesignPatterns.BehavioralDesignPattern.ObserverDesignPattern;
+package DesignPatterns.BehavioralDesignPattern.ObserverDesignPattern.Observers;
 
 
-
-
-public class TvDisplay implements Observer{
+public class MonitorDisplay implements Observer {
     int temp;
     int humidity;
 
-//    public TvDisplay(int humidity, int temp) {
+//    public MonitorDisplay(int humidity, int temp) {
 //        this.humidity = humidity;
 //        this.temp = temp;
 //    }
 
     void display(){
-        System.out.println("TV: Current temp: "+temp + "humidity: "+humidity);
+        System.out.println("Monitor: Current temp:- "+temp + ", humidity:- "+humidity);
     }
 
 
