@@ -22,17 +22,19 @@ Here are the main categories of design patterns having over 23 design pattern:
 - Examples:
   ### Adapter:
   - Allows incompatible interfaces to work together.
-  ### Decorator:  
+  ### Decorator: 
   - Adds behavior to objects dynamically.
-  ### Facade:  
+  ### Facade:
     - Provides a simplified interface to a complex subsystem.
-  ### Composite:  
+  ### Composite:
   - Treats individual objects and compositions of objects uniformly.
   ### Proxy:  
   - Provides a surrogate or placeholder for another object.
   ### Bridge:
+  - Bridge pattern is to decouple an abstraction from its implementation
   ### Flyweight:
-  ### Filter ( Not in 23):
+  - helps to minimize memory usage by sharing as much data as possible with similar objects 
+  ### Filter (Not in 23):
 
 ## Behavioral Patterns :
 - These patterns are concerned with algorithms and the assignment of responsibilities between objects.
@@ -42,18 +44,15 @@ Here are the main categories of design patterns having over 23 design pattern:
   - Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
   ### Strategy:  
   - Defines a family of algorithms, encapsulates each one, and makes them interchangeable.
-  
-- ### Command:
+  ### Command:
   - Encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations.
-
   ### Iterator:  
   - Provides a way to access elements of a collection sequentially without exposing its underlying representation.
   ### State:  
   - Allows an object to alter its behavior when its internal state changes.
-  
   ### Interpreter:
-
   ### Mediator:
+  ### Template Method Pattern:
 
 
 ### Benefits of Using Design Patterns
